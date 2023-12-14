@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mathe/Downloads/Pasta/somador
+vmux
+Z0 !s110 1678322790
+!i10b 1
+!s100 ]3_bI4K33;AXelJ^1UdO>2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Inb`<oK[F6f7F4:FcnZi<h1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/mathe/Downloads/Pasta/final
+w1678322425
+8C:/Users/mathe/Downloads/Pasta/final/testbench.v
+FC:/Users/mathe/Downloads/Pasta/final/testbench.v
+!i122 9
+L0 1 95
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1678322790.000000
+!s107 C:/Users/mathe/Downloads/Pasta/final/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mathe/Downloads/Pasta/final/testbench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vsomador7seg
+R0
+!i10b 1
+!s100 lXU0DNkk<BKUM7d<:R:`Z0
+R1
+IZ0ORimz=k:@KV>j5CAoXb0
+R2
+R3
+w1678322777
+8C:/Users/mathe/Downloads/Pasta/final/design.v
+FC:/Users/mathe/Downloads/Pasta/final/design.v
+!i122 8
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mathe/Downloads/Pasta/final/design.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mathe/Downloads/Pasta/final/design.v|
+!i113 1
+R6
+R7

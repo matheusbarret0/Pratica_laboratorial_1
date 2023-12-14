@@ -1,0 +1,15 @@
+C:/Users/mathe/Downloads/Pasta/final/design.v {1 {vlog -work work -stats=none C:/Users/mathe/Downloads/Pasta/final/design.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module somador7seg
+
+Top level modules:
+	somador7seg
+
+} {} {}} C:/Users/mathe/Downloads/Pasta/final/testbench.v {1 {vlog -work work -stats=none C:/Users/mathe/Downloads/Pasta/final/testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}}
